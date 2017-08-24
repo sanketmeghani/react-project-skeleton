@@ -14,12 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/sanketmeghani/react-project-skeleton.git"
   },
-  "keywords": [
-    "realtime",
-    "collaboration",
-    "multiuser",
-    "multichannel"
-  ],
+  "keywords": ["react", "skeleton"],
   "author": "Sanket Meghani",
   "license": "ISC",
   "bugs": {
@@ -55,6 +50,7 @@
     "file-loader": "^0.11.2",
     "json-loader": "^0.5.7",
     "koa-webpack-middleware": "^1.0.7",
+    "react-hot-loader": "^3.0.0-beta.7",
     "style-loader": "^0.18.2"
   }
 }
